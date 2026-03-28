@@ -1,6 +1,6 @@
 # 🔐 DocuShield – AI-Powered Document Verification & Authentication Platform
 
-<img width="1899" height="864" alt="image" src="https://github.com/user-attachments/assets/2748fd75-13e2-441c-94c5-a7d6d18f8a92" />
+<img width="1899" height="864" alt="image" src="frontend/src/assets/Screenshot 1.png" />
   
 
  **Tagline:** *“Trust Made Digital”*  
@@ -9,7 +9,7 @@ DocuShield is an **AI-powered platform** that enables **real-time document verif
 By combining **computer vision (YOLOv8n)** with **OCR (Gemini API)**, DocuShield detects forgeries, extracts structured data,  
 and ensures that every certificate, credential, or official paper can be instantly and reliably validated.  
 
-Built during **HackOdisha 2025**, DocuShield solves the problem of **fake documents, slow manual verification, and lack of scalable solutions**.  
+DocuShield solves the problem of **fake documents, slow manual verification, and lack of scalable solutions**.  
 
 ---
 
