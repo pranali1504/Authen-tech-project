@@ -94,7 +94,7 @@ Here are some snapshots of the **DocuShield web platform**:
 ![WhatsApp Image 2025-09-08 at 00 22 12_fdbd73f7](https://github.com/user-attachments/assets/996b3e46-676f-4140-926f-7f23f56e46e4)
 
 
-![WhatsApp Image 2025-09-08 at 00 23 39_2af45e2a](frontend/src/assets/Screenshot 3.png)
+![Screenshot](frontend/src/assets/Screenshot%203.png)
 
 
 ![WhatsApp Image 2025-09-08 at 00 24 24_20af6070](https://github.com/user-attachments/assets/06077d96-7d45-49be-9578-4b94c0128d09)
