@@ -1,6 +1,6 @@
 # 🔐 DocuShield – AI-Powered Document Verification & Authentication Platform
 
-<img width="1899" height="864" alt="image" src="https://github.com/user-attachments/assets/2748fd75-13e2-441c-94c5-a7d6d18f8a92" />
+<img width="1899" height="864" alt="image" src="frontend/src/assets/Screenshot 1.png" />
   
 
  **Tagline:** *“Trust Made Digital”*  
@@ -9,7 +9,7 @@ DocuShield is an **AI-powered platform** that enables **real-time document verif
 By combining **computer vision (YOLOv8n)** with **OCR (Gemini API)**, DocuShield detects forgeries, extracts structured data,  
 and ensures that every certificate, credential, or official paper can be instantly and reliably validated.  
 
-Built during **HackOdisha 2025**, DocuShield solves the problem of **fake documents, slow manual verification, and lack of scalable solutions**.  
+DocuShield solves the problem of **fake documents, slow manual verification, and lack of scalable solutions**.  
 
 ---
 
@@ -94,10 +94,7 @@ Here are some snapshots of the **DocuShield web platform**:
 ![WhatsApp Image 2025-09-08 at 00 22 12_fdbd73f7](https://github.com/user-attachments/assets/996b3e46-676f-4140-926f-7f23f56e46e4)
 
 
-![WhatsApp Image 2025-09-08 at 00 23 39_2af45e2a](https://github.com/user-attachments/assets/e6c0f20e-fcdd-434d-8c94-48ab602a0283)
-
-
-![WhatsApp Image 2025-09-08 at 00 23 39_2af45e2a](https://github.com/user-attachments/assets/250650dc-7680-4715-bed4-76aa4c10b540)
+![Screenshot](frontend/src/assets/Screenshot%203.png)
 
 
 ![WhatsApp Image 2025-09-08 at 00 24 24_20af6070](https://github.com/user-attachments/assets/06077d96-7d45-49be-9578-4b94c0128d09)
